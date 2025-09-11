@@ -111,6 +111,8 @@ Here are some screenshots of the application:
 
 ![Project Creation Screen](screen.png)
 
+![Project Creation Screen](https://github.com/mrmohammadalamin/architect-multi-agent/blob/f7668923424c8bfbc580232151b36d9a18bfe7f4/backend/project_store/4223f937-3d9a-4d26-ba84-409329dce304/stage_12/code_compliance_sheet.png)
+
 *(You can add more screenshots here by replacing the placeholder above with the actual path to your screenshot file.)*
 
 ### Video Demo
