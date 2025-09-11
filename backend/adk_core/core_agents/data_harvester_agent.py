@@ -43,7 +43,7 @@ class DataHarvesterAgent(BaseConstructionAgent):
                 logger.info(f"{self.name}: Found location '{location}' for data harvesting.")
 
                 # Use Google Geocoding API
-                google_geocoding_api_key = "AIzaSyDLlb179ulf-C3aksnRbdOA-uVCVVcW2yM" # Replace with actual key from config/env
+                google_geocoding_api_key = "" # Replace with actual key from config/env
                 google_geocoding_url = "https://maps.googleapis.com/maps/api/geocode/json"
 
                 geocoded = False
