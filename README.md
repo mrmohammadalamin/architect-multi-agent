@@ -116,7 +116,7 @@ Here are some screenshots of the application:
 ### Video Demo
 
 Here is a video demo of the application:
+[![Construction AI Demo](https://img.youtube.com/vi/MibL8O5Ff_4/0.jpg)](https://www.youtube.com/watch?v=MibL8O5Ff_4)
 
-[![Construction AI Demo]]((https://youtu.be/MibL8O5Ff_4))
 
 *(Replace `your-video-id` with the ID of your YouTube video.)*
