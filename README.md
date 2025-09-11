@@ -1,5 +1,3 @@
-# architect-multi-agent
-Multi Agent AI Solution for Construction architect 
 # Construction AI Multi-Agent System
 
 This project is a multi-agent system for managing construction projects, featuring a Flutter-based mobile frontend and a Python backend powered by FastAPI and Google's AI services.
