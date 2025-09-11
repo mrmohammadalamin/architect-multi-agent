@@ -1,0 +1,17 @@
+{
+    "change_type": "Unforeseen Site Condition: Encountering a large, un-surveyed rock shelf during foundation excavation. This is a differing site condition not indicated in the geotechnical report or contract documents.",
+    "impact_analysis": {
+        "cost_impact": "A significant cost increase is anticipated. Preliminary estimate ranges from $50,000 to $85,000 (3.3% - 5.7% of total project cost). This includes direct costs for specialized equipment rental (hydraulic rock hammer), additional labor, rock hauling and disposal fees, and potential subcontractor costs for blasting. It also includes indirect costs such as extended general conditions, project management, and fees for a geotechnical engineering consultant to assess the condition and recommend a removal/foundation redesign strategy.",
+        "schedule_impact": "A critical path delay of 3 to 5 weeks is projected. This includes time for work stoppage, investigation, mobilization of specialized equipment, the rock removal activity itself, and re-preparation of the foundation subgrade. As foundation work is an early critical path activity, this will directly delay all subsequent activities (framing, MEP rough-in, etc.) and push the overall project completion date from 64 weeks to an estimated 67-69 weeks.",
+        "quality_impact": "There is a potential for both negative and positive quality impacts. Negative risks include potential damage to adjacent structures or utilities from vibrations during rock breaking, which must be mitigated through monitoring. There is also a risk of improper backfilling post-removal, which could lead to future settlement. Conversely, a positive quality impact can be achieved if the foundation is redesigned by a structural engineer to bear directly on the stable bedrock, potentially increasing the long-term structural integrity of the residence."
+    },
+    "management_process": [
+        "Immediate Notification: Contractor immediately issues a formal written Notice of Change or Request for Information (RFI) to the Owner and Architect, halting work in the affected area to mitigate further costs.",
+        "Investigation & Documentation: A joint site inspection is conducted with the Owner, Architect, and a retained Geotechnical Engineer. The condition is thoroughly documented with photographs, surveys, and measurements.",
+        "Quantification & Proposal Submission: The Contractor prepares and submits a detailed Change Order Request (COR). This document includes a comprehensive cost breakdown (labor, equipment, materials, subcontractor quotes) and a Time Impact Analysis (TIA) illustrating the delay to the project schedule.",
+        "Review & Negotiation: The Owner, typically assisted by the Architect or a cost consultant, reviews the COR for contractual entitlement, accuracy, and reasonableness of the proposed cost and time extension. Negotiations are held to reach a fair and equitable agreement.",
+        "Formal Execution of Change Order: Once an agreement is reached, a formal, written Change Order is executed by both the Owner and Contractor. This legally modifies the contract sum and completion date.",
+        "Implementation & Monitoring: The Contractor proceeds with the approved change work. All associated costs and schedule progress are carefully tracked and reported against the approved Change Order.",
+        "Record Keeping: All correspondence, reports, meeting minutes, and documentation related to the change are meticulously filed for the project record and potential future reference."
+    ]
+}

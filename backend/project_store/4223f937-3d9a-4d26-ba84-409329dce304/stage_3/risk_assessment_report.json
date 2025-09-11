@@ -1,0 +1,44 @@
+{
+    "risk_register": [
+        {
+            "risk_description": "The site is underlain by London Clay with high shrink-swell potential, which could require complex and costly specialized foundation designs to prevent future structural instability, leading to significant budget overruns.",
+            "risk_category": "Financial",
+            "mitigation_strategy": "Commission a comprehensive geotechnical site investigation, including soil borings, to accurately characterize ground conditions and inform the foundation design and cost plan before finalizing the budget."
+        },
+        {
+            "risk_description": "The high likelihood of 'made ground' and potential land contamination from previous development could necessitate expensive and time-consuming remediation work, delaying the start of construction.",
+            "risk_category": "Schedule",
+            "mitigation_strategy": "Conduct a Phase 1 Desk Study and a subsequent Phase 2 Intrusive Site Investigation to identify and quantify any contamination early, allowing for remediation planning and accurate scheduling."
+        },
+        {
+            "risk_description": "As the site is in a designated Environment Agency Flood Zone, obtaining regulatory approval may be complicated and require costly, specialized flood-resilient design features, impacting both budget and timeline.",
+            "risk_category": "Regulatory",
+            "mitigation_strategy": "Engage a specialist consultant to prepare a formal Flood Risk Assessment (FRA) to support the planning application and integrate all required flood mitigation measures into the initial architectural design."
+        },
+        {
+            "risk_description": "The high density of existing underground utilities in the established urban area creates a significant risk of service strikes during excavation, which can cause severe project delays, costly repairs, and safety hazards.",
+            "risk_category": "Technical",
+            "mitigation_strategy": "Procure a comprehensive PAS 128 utility survey and use non-intrusive methods like Ground Penetrating Radar (GPR) to precisely map all underground services before any excavation work commences."
+        },
+        {
+            "risk_description": "The combination of specialized systems (Green Roof, Solar Panels, Rainwater Harvesting, Smart HVAC) creates a high risk of technical incompatibility, integration failure, and performance shortfalls.",
+            "risk_category": "Technical",
+            "mitigation_strategy": "Appoint a single M&E (Mechanical & Electrical) consultant or systems integrator early in the design process to ensure all technologies are compatible and properly coordinated."
+        },
+        {
+            "risk_description": "High traffic congestion characteristic of the area is likely to disrupt the delivery of materials and plant, and impede workforce travel, leading to delays in the construction schedule.",
+            "risk_category": "Schedule",
+            "mitigation_strategy": "Develop a detailed logistics and traffic management plan, including scheduling critical deliveries for off-peak hours and establishing a consolidated laydown area if possible."
+        },
+        {
+            "risk_description": "The site's susceptibility to pluvial (surface water) and fluvial (river) flooding creates a risk of the construction site being inundated, damaging materials, equipment, and completed work.",
+            "risk_category": "Environmental",
+            "mitigation_strategy": "Develop a site-specific flood response plan, monitor Environment Agency flood warnings, and ensure materials are stored on elevated platforms away from the lowest points of the site."
+        },
+        {
+            "risk_description": "The wide budget range combined with numerous costly risks (foundations, contamination, flood mitigation, high-tech features) creates a high probability of the final project cost exceeding the lower end of the client's budget expectation.",
+            "risk_category": "Financial",
+            "mitigation_strategy": "Develop a detailed cost plan with significant contingency allowances specifically allocated to ground risks and specialist systems. Implement a strict change control process to manage scope and cost."
+        }
+    ]
+}

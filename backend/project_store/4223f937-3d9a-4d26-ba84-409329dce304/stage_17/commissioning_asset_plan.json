@@ -1,0 +1,7 @@
+{
+    "commissioning_summary": "Generic commissioning plan due to missing inputs.",
+    "system_testing_approach": "Standard functional tests.",
+    "handover_documentation": "O&M manuals, as-builts.",
+    "asset_tagging_strategy": "QR codes, digital database.",
+    "digital_twin_integration": "Basic data sync."
+}

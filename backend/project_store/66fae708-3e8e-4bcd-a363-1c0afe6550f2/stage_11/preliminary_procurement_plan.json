@@ -1,0 +1,77 @@
+{
+    "procurement_strategy_summary": {
+        "procurement_route": "A traditional, single-stage competitive tendering route for the Main Contractor package. This approach provides cost certainty before construction commencement and is suitable for a project where design is substantially completed in Phase 1.",
+        "contracting_model": "The primary contract will be a JCT Standard Building Contract with Quantities, 2016 Edition (or equivalent), with project-specific amendments. Consultant appointments (Architect, Engineers) will be under separate professional services agreements. Long-lead items may be procured directly by the client and novated to the Main Contractor.",
+        "packaging_strategy": {
+            "phase_1_consultants": "Direct appointment of the design team and site investigation specialists.",
+            "phase_2_main_contractor": "Single main contract package encompassing all works in Phase 3 and responsibilities in Phase 4.",
+            "client_direct_procurement": "Early procurement of critical long-lead items (e.g., lifts, specialist facade) to mitigate program risk, for novation to the Main Contractor upon appointment."
+        },
+        "key_contract_clauses": [
+            {
+                "clause": "Liquidated and Ascertained Damages (LADs)",
+                "description": "A pre-agreed daily/weekly charge payable by the contractor for delays to the completion date, protecting the client from financial loss due to project overruns."
+            },
+            {
+                "clause": "Payment Terms and Retention",
+                "description": "Monthly interim payments based on a certified schedule of values. A retention percentage (e.g., 3-5%) will be held to ensure completion of works and rectification of defects."
+            },
+            {
+                "clause": "Change Control / Variation Procedure",
+                "description": "A strict mechanism for instructing, evaluating, and approving any changes to the scope, ensuring transparent management of cost and time implications."
+            },
+            {
+                "clause": "Insurance and Indemnity",
+                "description": "Requirement for the contractor to hold adequate Contractor's All Risks, Public Liability, and Employer's Liability insurance to cover the works and third parties."
+            },
+            {
+                "clause": "BREEAM Compliance",
+                "description": "Contractual obligation for the contractor to achieve the specified BREEAM rating, including requirements for evidence submission, waste management, and responsible material sourcing."
+            }
+        ]
+    },
+    "material_sourcing_approach": {
+        "objective": "To procure materials that balance cost-effectiveness, quality, program availability, and sustainability, in line with the project's BREEAM target.",
+        "structural_and_bulk_materials": "Primarily local and regional sourcing for concrete, aggregates, and steelwork to reduce transportation costs and lead times. Utilize competitive tendering among pre-qualified suppliers, aiming for fixed-price agreements where possible.",
+        "facade_and_envelope": "Early supplier engagement during the design phase (Phase 1). Sourcing will be from specialist national or international manufacturers based on the specified system's performance and aesthetics. Require comprehensive warranties and performance bonds.",
+        "mep_and_long_lead_items": "Source MEP plant, switchgear, and lifts directly from reputable manufacturers. Due to long lead times, orders will be placed in late Phase 1 / early Phase 2. Global sourcing may be required, necessitating early planning for logistics, customs, and currency fluctuation.",
+        "internal_fit_out_and_finishes": "Develop a detailed schedule of finishes with a list of approved manufacturers and suppliers for kitchens, sanitaryware, flooring, etc. Use call-off contracts to ensure phased, just-in-time delivery aligned with the construction sequence. Prioritize materials with high recycled content and low VOCs."
+    },
+    "vendor_selection_criteria": {
+        "methodology": "A two-stage selection process: 1) Pre-Qualification Questionnaire (PQQ) to assess core competencies and create a shortlist. 2) Invitation to Tender (ITT) for shortlisted vendors, evaluated using a weighted scoring matrix.",
+        "criteria": [
+            {
+                "criterion": "Financial Stability",
+                "weighting": "25%",
+                "details": "Verified via credit checks (e.g., Dun & Bradstreet), review of 3 years of audited accounts, and assessment of turnover relative to project value."
+            },
+            {
+                "criterion": "Technical Capability and Experience",
+                "weighting": "30%",
+                "details": "Demonstrable track record on residential projects of similar scale and complexity. Quality of proposed team, methodology, and past project references."
+            },
+            {
+                "criterion": "Commercial Competitiveness",
+                "weighting": "25%",
+                "details": "Tender price evaluation against pre-tender estimate, completeness of submission, and acceptance of key commercial terms and contract clauses."
+            },
+            {
+                "criterion": "Health, Safety, and Sustainability",
+                "weighting": "15%",
+                "details": "Review of H&S policy and statistics (e.g., AFR). Proven experience with BREEAM certification and robust environmental/waste management plans."
+            },
+            {
+                "criterion": "Programme and Resources",
+                "weighting": "5%",
+                "details": "Assessment of the submitted programme's viability and alignment with project milestones. Confirmation of resource and plant availability."
+            }
+        ]
+    },
+    "lead_time_management_notes": {
+        "early_identification_schedule": "A 'Long-Lead Item Schedule' will be developed during Phase 1 design, identifying all critical path materials and equipment. This includes lifts, bespoke facade systems, MEP plant (chillers, AHUs), switchgear, and specialist windows.",
+        "proactive_ordering": "Purchase orders for items on the Long-Lead schedule will be placed at the earliest viable opportunity, no later than Phase 2, potentially as client-direct orders to de-risk the main contractor's program.",
+        "integrated_logistics_plan": "The Main Contractor will be required to submit a detailed procurement and logistics schedule that is fully integrated with the master construction programme. This will manage site storage constraints and coordinate just-in-time (JIT) deliveries.",
+        "supplier_monitoring_and_expediting": "Implement regular (fortnightly) progress reviews with suppliers of all critical items. This includes tracking manufacturing milestones, shipping status, and confirming delivery dates. Expediting resources will be allocated for any items showing signs of slippage.",
+        "risk_mitigation_and_contingency": "Build a time-risk allowance (float) into the master programme specifically for material delivery, particularly for internationally sourced items. Identify and pre-qualify alternative suppliers for key components to mitigate single-source dependency and supply chain disruptions."
+    }
+}

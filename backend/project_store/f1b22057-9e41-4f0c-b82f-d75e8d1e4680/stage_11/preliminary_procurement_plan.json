@@ -1,0 +1,85 @@
+{
+    "procurement_strategy_summary": {
+        "overall_approach": "A phased and hybrid procurement strategy will be employed, aligning with the project's four key phases. The focus is on de-risking the project by engaging key suppliers early, securing long-lead items, and maintaining flexibility for finishing works. Contracts will be structured to incentivize performance and mitigate delays.",
+        "phase_1_procurement": {
+            "focus": "Professional Services & Early Contractor Involvement (ECI)",
+            "activities": [
+                "Tender and appoint design team, structural engineers, surveyors, and permitting consultants using fixed-price contracts.",
+                "Initiate ECI with a pre-selected off-site manufacturer to inform the design (DfMA - Design for Manufacture and Assembly), ensuring feasibility and cost certainty.",
+                "Identify all long-lead items (e.g., modular systems, custom glazing, M&E plant) and begin preliminary tendering/supplier qualification.",
+                "Key Contract Clauses to Consider: Clear scope of services, intellectual property rights for design, and professional indemnity insurance requirements."
+            ]
+        },
+        "phase_2_procurement": {
+            "focus": "Major Subcontracts & Off-site Manufacturing",
+            "activities": [
+                "Finalize and award the main contract for off-site manufacturing (e.g., volumetric modules, panelized systems) based on the finalized design. This will be a significant portion of the project budget.",
+                "Procure groundworks and enabling works contractors through competitive tender, likely using lump-sum or remeasureable contracts.",
+                "Place firm purchase orders for long-lead items identified in Phase 1.",
+                "Key Contract Clauses to Consider: Milestone payments tied to production/delivery, liquidated damages for delays, clear quality assurance specifications, and right-to-inspect at the factory."
+            ]
+        },
+        "phase_3_procurement": {
+            "focus": "On-site Works & Finishes",
+            "activities": [
+                "Appoint contractors for cladding, roofing, and external works. These are critical path activities following module assembly.",
+                "Procure M&E fit-out, plastering, and second-fix carpentry packages.",
+                "Source and schedule delivery for interior finishing materials (kitchens, bathrooms, flooring, paint) using a 'just-in-time' approach to minimize on-site storage and damage.",
+                "Key Contract Clauses to Consider: Phased handover, clear interface responsibilities between trades, and robust defects liability period."
+            ]
+        },
+        "phase_4_procurement": {
+            "focus": "Specialists & Final Items",
+            "activities": [
+                "Engage independent commissioning agents for M&E systems.",
+                "Procure any final FF&E (Furniture, Fixtures, and Equipment) and specialist services (e.g., landscaping, final cleaning).",
+                "Finalize all supplier accounts and process final payments upon successful completion and handover.",
+                "Key Contract Clauses to Consider: Performance specifications for commissioning, final payment linked to receipt of O&M manuals and as-built drawings."
+            ]
+        }
+    },
+    "material_sourcing_approach": {
+        "off_site_manufactured_components": "Source directly from a specialized manufacturer with proven experience in residential projects. This will be a single-source package covering the main structure and potentially pre-installed windows and services.",
+        "bulk_materials": "For items like concrete, rebar, and aggregates for enabling works, establish agreements with local suppliers to reduce transportation costs and lead times. Leverage project volume for competitive pricing.",
+        "cladding_and_glazing": "Source from suppliers who can provide a complete system with warranties. Engage early in Phase 1 to ensure design compliance and accommodate manufacturing lead times (often 12-20 weeks).",
+        "interior_finishes": "Develop a pre-approved range of finishes (flooring, tiles, sanitaryware, kitchens) with the design team. Source from a mix of national distributors and manufacturers to balance cost, quality, and aesthetics. Use call-off contracts to schedule deliveries as needed in Phase 3.",
+        "sustainability_focus": "Prioritize sourcing materials with high recycled content, Environmental Product Declarations (EPDs), and recognized certifications (e.g., FSC for timber). This will be a key criterion in supplier evaluation."
+    },
+    "vendor_selection_criteria": [
+        {
+            "criterion": "Technical Capability & Experience",
+            "description": "Demonstrated track record with projects of similar scale and complexity, especially for the off-site manufacturer. Site visits and case study reviews are mandatory."
+        },
+        {
+            "criterion": "Financial Stability",
+            "description": "Vendors must pass a financial health check (e.g., credit rating, balance sheet analysis) to ensure they can remain solvent throughout the project lifecycle."
+        },
+        {
+            "criterion": "Production/Resource Capacity",
+            "description": "Verification of the vendor's capacity to meet the project schedule without compromising quality. This includes assessing their current order book and resource allocation."
+        },
+        {
+            "criterion": "Quality Management Systems",
+            "description": "Evidence of robust QA/QC processes (e.g., ISO 9001 certification). For the off-site manufacturer, this includes factory production control checks."
+        },
+        {
+            "criterion": "Cost Competitiveness",
+            "description": "Evaluation based on total cost of ownership, including material price, delivery, warranty, and life-cycle costs, not just the lowest bid."
+        },
+        {
+            "criterion": "Health, Safety, and Environmental (HSE) Record",
+            "description": "Review of HSE policies, procedures, and past performance statistics to ensure alignment with project standards."
+        },
+        {
+            "criterion": "References and Reputation",
+            "description": "Positive feedback from at least two recent, relevant client references."
+        }
+    ],
+    "lead_time_management_notes": {
+        "early_supplier_engagement": "Involve critical suppliers (off-site, windows, M&E) in the design phase (Weeks 10-20) to align design with manufacturability and lock in production slots.",
+        "master_procurement_schedule": "Develop a detailed procurement schedule linked to the main project Gantt chart. This schedule will define deadlines for specifications, tenders, and purchase order placement for every package.",
+        "risk-based_buffering": "Incorporate a minimum 2-3 week buffer for long-lead items (e.g., off-site modules, glazing) and items with volatile supply chains. Plan for delivery to site just before installation, but have contingency storage options.",
+        "proactive_progress_monitoring": "Implement weekly progress calls with critical suppliers starting from the placement of the purchase order. Use shared tracking documents to monitor key production milestones.",
+        "logistics_and_delivery_coordination": "Pre-plan logistics for large component delivery (e.g., modular units), including route surveys, crane coordination, and traffic management. All deliveries must be scheduled via a central site logistics coordinator to avoid congestion."
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "hvac_recommendations": {
+        "primary_heating_hot_water": {
+            "system_type": "Centralised Low-Temperature Hot Water (LTHW) System",
+            "plant": "A bank of high-efficiency Air Source Heat Pumps (ASHPs) located in the ground floor plant room or on the roof, subject to acoustic assessment. This aligns with the 'Be Green' tier of the London Plan energy hierarchy.",
+            "in-unit_system": "Heat Interface Units (HIUs) in each apartment's utility cupboard. The HIU will provide instantaneous domestic hot water and metered, controlled heating, eliminating in-unit gas supplies and stored hot water cylinders.",
+            "heat_emitters": "Wet Underfloor Heating (UFH) throughout each apartment. UFH is highly efficient with low-temperature ASHP systems, provides superior thermal comfort, and complements the open-plan layout."
+        },
+        "ventilation": {
+            "system_type": "Decentralised Mechanical Ventilation with Heat Recovery (MVHR)",
+            "details": "Each apartment to have a dedicated, high-efficiency MVHR unit, located in the utility cupboard. This provides continuous filtered fresh air and extracts stale, moist air from kitchens and bathrooms, recovering waste heat. This is essential for airtight construction and mitigating external noise/pollutants.",
+            "overheating_mitigation": "The MVHR system must include an automatic summer bypass function to provide passive cooling during warmer nights, which is critical in a dense urban London location."
+        },
+        "cooling": {
+            "strategy": "Active Comfort Cooling Readiness",
+            "recommendation": "The central ASHP plant should be specified as a reversible (heating and cooling) system. Chilled water can then be circulated to the HIUs (using models with an integrated cooling function). This provides a fully integrated, energy-efficient cooling solution to combat summer overheating, a significant risk identified by CIBSE TM59 analysis for London apartments."
+        }
+    },
+    "electrical_notes": {
+        "supply_and_distribution": {
+            "incoming_supply": "New DNO LV supply to a central switchroom on the ground floor.",
+            "risers": "Vertical power distribution via a low-impedance busbar system located in a central riser.",
+            "metering": "Individual smart meters (SMETS2) for each apartment. Separate landlord's meters for all communal services (plant, lifts, lighting)."
+        },
+        "renewable_energy": {
+            "system": "Roof-mounted Solar Photovoltaic (PV) array.",
+            "integration": "PV generation to be connected to the landlord's supply to offset communal energy costs (e.g., central plant, lifts, corridor lighting).",
+            "storage": "A Battery Energy Storage System (BESS) is strongly recommended, located in the plant room. This will store excess PV energy for use during peak tariff periods or overnight, maximising on-site energy use and grid independence."
+        },
+        "communal_and_ancillary": {
+            "lighting": "100% LED lighting throughout. Presence detection (PIR/microwave) control in all common areas (corridors, lobby, plant room). Photocell and time-clock control for external lighting.",
+            "ev_charging": "Provision for electric vehicle (EV) charging points as per Building Regulations Part S. As no parking is mentioned, this should focus on dedicated, secure e-bike charging stations within the ground floor bicycle storage area.",
+            "fire_safety": "LD1 Category fire detection and alarm system to BS 5839-6 within each dwelling, linked to a BS 5839-1 system for common areas."
+        }
+    },
+    "plumbing_strategies": {
+        "water_supply": {
+            "cold_water": "Boosted cold water system. A central storage tank and variable speed booster pump set in the ground floor plant room will serve all apartments, ensuring consistent pressure.",
+            "hot_water": "Instantaneously generated at the HIU within each apartment, fed from the central LTHW loop. This is hygienic (no legionella risk from stored water) and energy-efficient.",
+            "metering": "Water meters for each apartment to encourage conservation and comply with London Plan water neutrality policies."
+        },
+        "drainage": {
+            "foul_water": "Conventional gravity drainage system using HDPE or PVC pipework. Vertical stacks located in protected service risers.",
+            "rainwater_harvesting": "A dedicated system collecting rainwater from the roof into a central storage tank in the plant room. The filtered and treated water will be pumped to supply all non-potable demands, primarily toilet flushing and external irrigation.",
+            "surface_water": "Sustainable Urban Drainage System (SuDS) approach. The extensive green roof will attenuate and partially absorb rainfall. Any overflow will be directed to the main storm sewer via a flow-control device (e.g., Hydro-Brake).",
+            "flood_resilience": "All ground floor drainage connections must be fitted with anti-flood, non-return valves as a secondary defence measure to the raised plinth design."
+        }
+    },
+    "smart_home_integration": {
+        "in-apartment_systems": {
+            "control": "Each apartment to feature a central smart hub for integrated control of heating, ventilation, and lighting. Smart thermostats will manage the UFH via the HIU, allowing for scheduling and remote operation.",
+            "monitoring": "The system will display real-time and historic energy (heating, electricity) and water consumption data sourced from the smart meters and HIU, empowering residents to manage their usage.",
+            "connectivity": "Structured cabling (Cat 6a) and fibre-to-the-premises (FTTP) infrastructure to provide high-speed internet and a robust backbone for all smart systems."
+        },
+        "building-wide_systems": {
+            "bms": "A central Building Management System (BMS) will control and monitor the entire MEP central plant (ASHPs, pumps, BESS, ventilation). This allows for performance optimisation, fault alarming, and efficient facilities management.",
+            "access_and_security": "Integration of a smart video door entry system with the residents' smart home app."
+        }
+    },
+    "notes": {
+        "regulatory_compliance": "All systems must be designed to comply with the latest UK Building Regulations (Parts F, G, L, P, S), the London Plan Energy and Water policies, and relevant CIBSE/BSRIA/IET guidelines.",
+        "design_coordination": "Early-stage, detailed coordination is critical between MEP, architectural, and structural disciplines to accommodate plant space, service risers, and UFH floor build-ups. The modular construction approach requires a 'design for manufacture and assembly' (DfMA) mindset.",
+        "further_studies_required": "A full CIBSE TM59 dynamic thermal simulation is required to confirm the overheating risk and validate the cooling strategy. A detailed acoustic assessment is needed for both external plant noise and internal building services noise transmission.",
+        "sustainability_focus": "The proposed strategy creates a highly efficient, all-electric building with significant on-site renewable generation, contributing to London's net-zero carbon targets. The rainwater harvesting system directly addresses the goal of water neutrality."
+    }
+}

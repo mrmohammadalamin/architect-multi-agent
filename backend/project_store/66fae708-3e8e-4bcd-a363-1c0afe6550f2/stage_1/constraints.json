@@ -1,0 +1,12 @@
+{
+    "budget_range": "$800,000 - $1,500,000",
+    "desired_features": [
+        "Green Roof",
+        "Solar Panels",
+        "Rainwater Harvesting",
+        "Smart HVAC"
+    ],
+    "other_limitations": [
+        "Must be a two-story building"
+    ]
+}

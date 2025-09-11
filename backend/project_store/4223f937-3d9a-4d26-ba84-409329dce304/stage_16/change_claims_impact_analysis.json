@@ -1,0 +1,17 @@
+{
+    "change_type": "Unforeseen Condition: Discovery of Unsuitable Soil Conditions Requiring Foundation Redesign",
+    "impact_analysis": {
+        "cost_impact": "High. Direct costs include immediate engagement of a geotechnical engineer for soil analysis (~$5,000-$10,000), costs for soil remediation which may involve over-excavation and replacement with engineered fill (~$40,000-$75,000), and structural engineer fees for the foundation redesign (~$4,000-$8,000). Material costs will increase due to a more robust foundation design (e.g., deeper footings, more rebar, potential for piers). Indirect costs will accrue from extended general conditions, site supervision, and equipment rental during the delay. Total estimated cost impact: $60,000 - $110,000.",
+        "schedule_impact": "Severe. The project's critical path is immediately halted. A cumulative delay of 5-8 weeks is anticipated. This includes: 1 week for investigation and testing, 2 weeks for redesign and owner approval, and 2-5 weeks for the physical remediation and construction of the revised foundation. This delay will have a cascading effect, pushing back all subsequent trades (framing, roofing, MEP) and potentially shifting exterior work into a less favorable weather season, which could cause further secondary delays.",
+        "quality_impact": "Positive (if managed correctly). The change itself is essential to ensure the long-term structural integrity and quality of the home, preventing catastrophic future issues like settlement or foundation failure. The end product will be of higher quality. However, there is a risk of negative quality impact on subsequent activities if the project team attempts to rush to make up for lost time, leading to mistakes or cut corners in other areas."
+    },
+    "management_process": [
+        "Immediately issue a Stop Work Notice for the affected area to prevent further abortive work and ensure site safety. Formally notify the Owner and Architect of the unforeseen condition with a Request for Information (RFI).",
+        "Engage a qualified geotechnical engineer to perform soil borings and provide a formal report with stamped recommendations for remediation and foundation design.",
+        "Collaborate with the Architect and Structural Engineer to develop a revised foundation design based on the geotechnical report. Obtain preliminary pricing for the proposed solution from relevant subcontractors.",
+        "Submit a formal Change Order Request (COR) to the Owner. The COR must include a detailed breakdown of all direct and indirect costs, a Time Impact Analysis (TIA) demonstrating the effect on the project schedule, and all supporting documentation (geotechnical report, revised drawings).",
+        "Negotiate the terms of the Change Order with the Owner. Upon agreement, execute a formal contract amendment that officially adjusts the contract sum and completion date.",
+        "Once the Change Order is executed, update the project budget and re-baseline the master project schedule.",
+        "Communicate the revised schedule to all subcontractors and suppliers to ensure coordinated re-sequencing of the work. Meticulously track all costs and time associated with the change for project records."
+    ]
+}

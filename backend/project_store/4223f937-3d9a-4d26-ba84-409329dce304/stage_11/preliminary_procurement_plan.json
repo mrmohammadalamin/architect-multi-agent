@@ -1,0 +1,71 @@
+{
+    "procurement_strategy_summary": {
+        "overview": "A phase-based procurement strategy for a residential project valued at 1,450,000, designed to optimize cost, quality, and schedule. The approach will blend direct purchasing of long-lead items with comprehensive subcontracting packages.",
+        "phase_1_pre_construction": "Procurement of professional services (Architect, Structural Engineer, MEP Consultant, Specialist Surveyors). Contracts will primarily be Fixed-Price or Time & Material based on a clearly defined scope of services.",
+        "phase_2_procurement_and_off_site_mfg": "Early procurement of long-lead items (e.g., custom windows, structural steel, specialized MEP units, pre-fabricated components like trusses). This will be executed via direct Purchase Orders with manufacturers. This phase is critical for de-risking the construction schedule.",
+        "phase_3_on_site_construction": "Tendering and awarding of major subcontract packages (e.g., Groundworks, Concrete, Framing, Envelope, MEP installation, Finishes). The strategy is to use Fixed-Price contracts based on detailed drawings and specifications. A mix of owner-supplied and contractor-supplied materials will be used, with owner-supplied for high-value or aesthetic-critical items (e.g., high-end flooring, fixtures).",
+        "phase_4_mep_commissioning_and_handover": "Procurement is minimal, focusing on contracts for independent commissioning agents and final inspection services to ensure compliance and performance. Procurement of any final spares or attic stock as per contract requirements.",
+        "key_contract_clauses": [
+            "Scope of Work (SoW): Detailed and unambiguous to prevent scope creep.",
+            "Payment Schedule: Milestone-based payments tied to verified progress and material delivery.",
+            "Liquidated Damages: For delays attributable to the vendor/subcontractor.",
+            "Change Order Procedure: A formal process for managing and pricing any variations to the SoW.",
+            "Warranties and Guarantees: Specification of warranty periods for materials and workmanship.",
+            "Insurance and Indemnification: Requirement for vendors to hold adequate liability insurance and indemnify the owner against claims.",
+            "Termination Clause: Outlines conditions under which the contract can be terminated by either party.",
+            "Material Approval: Clause requiring contractor to submit material samples/data sheets for approval before purchase."
+        ]
+    },
+    "material_sourcing_approach": {
+        "strategy": "A hybrid sourcing model balancing local, national, and international suppliers to manage cost, lead time, and quality.",
+        "local_sourcing": "For bulk materials such as concrete, aggregates, standard lumber, and masonry. This reduces transportation costs, supports the local economy, and ensures quicker delivery.",
+        "national_sourcing": "For manufactured systems and components like structural steel, roofing systems, standard windows, and major MEP equipment from established national distributors or manufacturers to leverage competitive pricing and established supply chains.",
+        "global_sourcing": "Reserved for unique, high-specification items where domestic alternatives are unavailable or do not meet quality standards (e.g., specific natural stone, high-end European appliances, custom light fixtures). This requires rigorous logistics management.",
+        "sustainability_focus": "Prioritize sourcing of materials with high recycled content, low VOCs, and sustainable certifications (e.g., FSC for wood). Preference for suppliers within a 500-mile radius to reduce the carbon footprint where feasible."
+    },
+    "vendor_selection_criteria": {
+        "methodology": "A weighted scoring matrix will be used to evaluate potential vendors and subcontractors across four key areas.",
+        "technical_capability_and_experience": {
+            "weight": "35%",
+            "criteria": [
+                "Demonstrated experience with residential projects of similar scale and complexity.",
+                "Technical qualifications and certifications of key personnel.",
+                "Ability to meet project specifications and quality standards.",
+                "References from previous clients and architects."
+            ]
+        },
+        "commercial_competitiveness": {
+            "weight": "30%",
+            "criteria": [
+                "Total bid price evaluated against a detailed scope.",
+                "Clarity and fairness of proposed payment terms.",
+                "Competitiveness of rates for potential change orders.",
+                "Agreement to key contractual terms."
+            ]
+        },
+        "financial_stability_and_risk": {
+            "weight": "20%",
+            "criteria": [
+                "Positive credit check and review of financial statements.",
+                "Adequate insurance coverage (General Liability, Workers' Comp).",
+                "Bonding capacity appropriate for the contract value."
+            ]
+        },
+        "health_safety_and_quality_systems": {
+            "weight": "15%",
+            "criteria": [
+                "Documented Health and Safety program and record (e.g., EMR rating).",
+                "Evidence of a formal Quality Management System (QMS).",
+                "Overall professionalism and communication."
+            ]
+        }
+    },
+    "lead_time_management_notes": {
+        "early_identification": "During the design phase (Phase 1), create a 'Long-Lead Item List' including items like custom windows & doors, structural steel, pre-fabricated assemblies, specialized cladding, and major HVAC equipment.",
+        "proactive_procurement": "Issue Purchase Orders for all identified long-lead items during Phase 2, well ahead of their required-on-site date. Secure production slots with manufacturers.",
+        "schedule_integration": "All material delivery dates must be integrated as key milestones into the master project schedule (e.g., using MS Project or Primavera).",
+        "logistics_and_storage_planning": "Coordinate just-in-time (JIT) deliveries for bulky items to minimize site congestion. For sensitive or early-arriving materials, arrange secure off-site or on-site storage.",
+        "supplier_expediting": "Implement a regular tracking and expediting process. Maintain weekly contact with critical suppliers to monitor production status and confirm shipping dates.",
+        "contingency_planning": "Identify alternative 'or-equal' materials and secondary suppliers for high-risk items. Build a schedule float (buffer) around the delivery milestones of critical path materials."
+    }
+}

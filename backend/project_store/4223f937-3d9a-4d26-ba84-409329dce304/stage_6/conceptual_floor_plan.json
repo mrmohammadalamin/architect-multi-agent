@@ -1,0 +1,21 @@
+{
+    "layout_summary": "The proposed layout is a vertically-zoned, multi-unit residential block designed for a dense urban context. The ground floor acts as a resilient plinth, housing non-habitable functions such as the main entrance lobby, secure bicycle storage, and a central plant room for the Smart HVAC and rainwater harvesting systems. This elevates all primary residential accommodation to the floors above, directly mitigating the identified flood risk. Typical upper floors feature two-bedroom apartment units with a clear programmatic division. An open-plan kitchen, dining, and living area forms the 'social' heart of each unit, oriented towards the primary facade for light and air. A private, 'quiet' zone containing bedrooms and bathrooms is located towards the rear or side of the unit, separated by a central circulation spine. This repeatable, modular layout is optimized for prefabrication. The roof is a functional, integrated plane featuring an extensive green roof for insulation and biodiversity, strategically placed solar panels for energy generation, and the collection apparatus for the rainwater harvesting system.",
+    "key_adjacencies": [
+        "Ground Floor Plant Room -> Vertical service risers connect directly to the roof (for solar/rainwater) and each apartment (for Smart HVAC).",
+        "Main Entrance/Lobby -> Vertical Circulation (Stairs/Lift) provides a single, secure point of access to all residential floors.",
+        "Kitchen -> Dining Area -> Living Area are combined in an open-plan arrangement to create a spacious, light-filled social hub.",
+        "Unit Entrance -> Hallway provides direct access to both the public (living) and private (bedroom) zones, acting as an acoustic buffer.",
+        "Bedrooms -> Bathrooms are clustered together to form a private zone, separated from the main living spaces.",
+        "Living Area -> Private Balcony/Terrace provides a direct connection to private outdoor amenity space.",
+        "Master Bedroom -> En-suite Bathroom offers enhanced privacy and convenience.",
+        "Utility/Storage Closet -> Hallway allows for centralized, accessible placement of laundry and household storage without disrupting living spaces."
+    ],
+    "space_program_notes": [
+        "Flood Resilience: Placing all habitable spaces on the first floor and above, with a robust ground floor plinth for ancillary services, directly responds to the geospatial flood risk of the London Basin.",
+        "Sustainability Integration: The layout centralizes sustainable systems. The roof is designed to accommodate the co-location of a green roof, solar panels, and rainwater collection, which are then serviced by the dedicated plant room on the ground floor.",
+        "Construction Certainty: The regular, stacked, and repeatable nature of the apartment floor plans is highly conducive to the use of prefabricated components, aligning with the project's risk-averse strategy and ensuring quality control.",
+        "Urban Density: The vertical stacking of compact, efficient units maximizes residential density on the given urban footprint, consistent with the surrounding Ilford context.",
+        "Functional Zoning: A clear separation between the 'public' open-plan living area and the 'private' bedroom zone within each unit ensures acoustic privacy and functional clarity, which is critical for high-density living.",
+        "Fabric-First Principle: The compact and simple building form factor, enabled by the efficient internal layout, minimizes the external surface area-to-volume ratio, enhancing the performance of the highly insulated envelope."
+    ]
+}

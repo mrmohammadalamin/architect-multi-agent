@@ -1,0 +1,24 @@
+{
+    "strategic_options": [
+        {
+            "option_name": "The De-Risked Certainty",
+            "focus": "Risk Minimization",
+            "description": "This strategy prioritizes upfront investment in comprehensive site investigations to quantify and design for all major risks before committing to the main construction contract. It involves a two-stage procurement process where a contractor is first engaged to manage detailed geotechnical, contamination, flood, and utility surveys. This creates a highly accurate cost plan and design, minimizing the risk of budget overruns and delays caused by unforeseen ground conditions (London Clay, contamination) and regulatory hurdles (flood zone requirements). The trade-off is a longer pre-construction phase in exchange for cost and schedule certainty during the build."
+        },
+        {
+            "option_name": "The Eco-Flagship",
+            "focus": "Sustainability Leadership",
+            "description": "This option fully embraces the client's vision by aiming for best-in-class sustainability, potentially targeting certifications like Passivhaus or BREEAM Excellent. It accepts that the budget will trend towards the upper limit ($1.5M) to accommodate not only the high-risk groundworks but also superior building fabric, advanced renewable systems, and fully integrated smart home technology. The primary driver is long-term performance, low operational costs, and creating a landmark property. This strategy prioritizes final quality and sustainability over initial capital cost or speed."
+        },
+        {
+            "option_name": "The Phased & Flexible Build",
+            "focus": "Cost Optimization",
+            "description": "This strategy manages financial risk by dividing the project into two distinct phases to align with the wide budget range. Phase 1 is strictly limited to resolving all high-risk, high-cost site issues: investigation, potential remediation, specialized foundations for the London Clay, flood mitigation, and construction of the basic structural shell. Once Phase 1 costs are finalized, the client can make informed decisions on the scope and specification of Phase 2 (internal fit-out, technology installation) to ensure the total project remains within budget. This provides maximum financial control at the expense of a potentially longer overall project duration."
+        },
+        {
+            "option_name": "The Off-Site Accelerator",
+            "focus": "Speed to Market",
+            "description": "This strategy leverages Modern Methods of Construction (MMC), such as panelized or volumetric modular systems, to dramatically reduce the on-site construction timeline. While the complex and time-consuming groundworks and foundation construction must be completed traditionally, the building's superstructure is manufactured concurrently in a factory. This approach significantly mitigates schedule risks associated with the site's high traffic congestion, tight access, and potential weather delays. It offers enhanced quality control but requires detailed design decisions to be finalized very early in the process."
+        }
+    ]
+}

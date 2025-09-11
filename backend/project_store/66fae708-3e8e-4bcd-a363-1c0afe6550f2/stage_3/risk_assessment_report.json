@@ -1,0 +1,39 @@
+{
+    "risk_register": [
+        {
+            "risk_description": "Significant cost overruns and foundation design complexity due to the high likelihood of encountering London Clay, known for its shrink-swell properties, and potential for contaminated made ground from previous urban development.",
+            "risk_category": "Technical",
+            "mitigation_strategy": "Commission a comprehensive Geotechnical and Environmental Site Investigation prior to finalizing design to determine soil properties and contamination levels, allowing for an appropriate foundation design and remediation budget."
+        },
+        {
+            "risk_description": "Project delays and potential damage to the site and materials from flooding, identified as the primary environmental risk from both the nearby River Roding (fluvial) and surface water (pluvial) in a dense urban area.",
+            "risk_category": "Environmental",
+            "mitigation_strategy": "Urgently complete the required detailed Flood Risk Assessment (FRA) and incorporate its findings, such as raised finished floor levels or flood-resilient materials, into the project design and construction plan."
+        },
+        {
+            "risk_description": "The cost of specialized sustainable technologies (Green Roof, Solar Panels, Rainwater Harvesting) and smart systems (Smart HVAC) may exceed initial estimates, especially given the very wide preliminary budget range ($800k - $1.5M).",
+            "risk_category": "Financial",
+            "mitigation_strategy": "Obtain firm quotes from specialist subcontractors for all desired sustainable and smart features early in the design phase. Work with the client to fix the scope and establish a firm, detailed budget with an appropriate contingency."
+        },
+        {
+            "risk_description": "Schedule delays caused by logistical challenges, as the site's excellent accessibility is offset by 'significant traffic congestion,' which will impact material deliveries, waste removal, and workforce transportation.",
+            "risk_category": "Schedule",
+            "mitigation_strategy": "Develop a detailed Construction Logistics Plan that schedules deliveries for off-peak hours and coordinates with local authorities (London Borough of Redbridge) to manage site access."
+        },
+        {
+            "risk_description": "Failure of the various specialized systems (Solar, Smart HVAC, Rainwater Harvesting) to integrate and function correctly, leading to performance issues, costly rework, and complex commissioning delays.",
+            "risk_category": "Technical",
+            "mitigation_strategy": "Appoint a lead Systems Integration Coordinator. Mandate that all specialist technology providers collaborate on an integrated design and commissioning plan before any installation work begins."
+        },
+        {
+            "risk_description": "Unexpectedly long lead times and high costs for utility connections. The need for 'capacity assessments' for water, electricity, and sewerage could reveal that expensive and time-consuming infrastructure upgrades are required.",
+            "risk_category": "Regulatory",
+            "mitigation_strategy": "Submit applications and requests for capacity assessments to all relevant utility companies immediately to identify upgrade requirements, costs, and timelines as early as possible in the project lifecycle."
+        },
+        {
+            "risk_description": "Work stoppages or restrictions imposed by the local authority due to complaints from neighbors about noise, dust, or traffic in the 'dense urban and suburban mix' surrounding the site.",
+            "risk_category": "Regulatory",
+            "mitigation_strategy": "Develop and strictly adhere to a Construction Environmental Management Plan (CEMP) for noise, air quality, and traffic. Engage in proactive communication with neighboring properties to manage expectations and address concerns."
+        }
+    ]
+}

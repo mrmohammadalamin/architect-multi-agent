@@ -1,0 +1,95 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "100",
+                    "short_name": "100",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Balfour Road",
+                    "short_name": "Balfour Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ilford",
+                    "short_name": "Ilford",
+                    "types": [
+                        "postal_town"
+                    ]
+                },
+                {
+                    "long_name": "Greater London",
+                    "short_name": "Greater London",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "England",
+                    "short_name": "England",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United Kingdom",
+                    "short_name": "GB",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "IG1 4JE",
+                    "short_name": "IG1 4JE",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "100 Balfour Rd, Ilford IG1 4JE, UK",
+            "geometry": {
+                "location": {
+                    "lat": 51.56305769999999,
+                    "lng": 0.0759205
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.5644681302915,
+                        "lng": 0.07720978029150204
+                    },
+                    "southwest": {
+                        "lat": 51.5617701697085,
+                        "lng": 0.07451181970849798
+                    }
+                }
+            },
+            "navigation_points": [
+                {
+                    "location": {
+                        "latitude": 51.5631267,
+                        "longitude": 0.07585349999999999
+                    }
+                }
+            ],
+            "place_id": "ChIJlYnDG4ym2EcRZ7ex8wEa4-s",
+            "plus_code": {
+                "compound_code": "H37G+69 Ilford, UK",
+                "global_code": "9F32H37G+69"
+            },
+            "types": [
+                "street_address"
+            ]
+        }
+    ],
+    "status": "OK"
+}

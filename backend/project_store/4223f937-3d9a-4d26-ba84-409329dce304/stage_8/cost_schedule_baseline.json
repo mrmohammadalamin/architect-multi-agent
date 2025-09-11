@@ -1,0 +1,17 @@
+{
+    "total_estimated_cost_usd": 1450000,
+    "cost_breakdown": {
+        "professional_fees_and_permits": 174000,
+        "materials": 565500,
+        "labor": 452400,
+        "equipment": 113100,
+        "contingency": 145000
+    },
+    "estimated_duration_weeks": 74,
+    "key_phases": [
+        "Phase 1: Pre-Construction (Design, Specialist Studies, and Permitting)",
+        "Phase 2: Procurement and Off-site Manufacturing",
+        "Phase 3: On-Site Construction (Substructure, Superstructure, Envelope, Finishes)",
+        "Phase 4: MEP Commissioning and Project Handover"
+    ]
+}
